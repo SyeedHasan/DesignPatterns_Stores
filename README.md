@@ -16,13 +16,13 @@ Version: py-3.8.0
 
 ## Class Diagram for Overview
 
-![Builder Pattern](https://github.com/SyeedHasan/DesignPatterns_Stores/Images/../../../../../Images/Builder.jpeg)
+![Builder Pattern](https://github.com/SyeedHasan/DesignPatterns_Stores/blob/master/Images/Builder.jpeg)
 
-![Factory Pattern](https://github.com/SyeedHasan/DesignPatterns_Stores/Images/../../../../../Images/Factory.jpeg)
+![Factory Pattern](https://github.com/SyeedHasan/DesignPatterns_Stores/blob/master/Images/Factory.jpeg)
 
-![Observer Pattern](https://github.com/SyeedHasan/DesignPatterns_Stores/Images/../../../../../Images/Observer.jpeg)
+![Observer Pattern](https://github.com/SyeedHasan/DesignPatterns_Stores/blob/master/Images/Observer.jpeg)
 
-![Decorator Pattern](https://github.com/SyeedHasan/DesignPatterns_Stores/Images/../../../../../Images/Decorator.jpeg)
+![Decorator Pattern](https://github.com/SyeedHasan/DesignPatterns_Stores/blob/master/Images/Decorator.jpeg)
 
-![Class Diagram with All Pattern](https://github.com/SyeedHasan/DesignPatterns_Stores/Images/../../../../../Images/classDiagram.jpg)
+![Class Diagram with All Pattern](https://github.com/SyeedHasan/DesignPatterns_Stores/blob/master/Images/classDiagram.jpg)
 
